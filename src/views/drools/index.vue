@@ -46,7 +46,7 @@ export default {
           "\n" +
           "end;" +
           "\n",
-        c:
+        c: 
           'rule "posture_exception_one"' +
           "\n" +
           "    when" +
